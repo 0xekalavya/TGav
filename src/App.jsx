@@ -319,14 +319,14 @@ export default function App() {
             <span className="text-gray-500 text-xs">TGav © {new Date().getFullYear()} · Built with ❤️</span>
           </div>
           <div className="flex items-center gap-3">
-            <a href="https://github.com/0xekalavya" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/tojixavirav" target="_blank" rel="noopener noreferrer"
               className="flex items-center gap-1.5 text-gray-500 hover:text-white text-xs transition-colors group">
               <span className="p-1.5 rounded-lg bg-white/5 group-hover:bg-white/10 transition-colors">
                 <GithubIcon />
               </span>
               GitHub
             </a>
-            <a href="https://instagram.com/ekalavya.dev" target="_blank" rel="noopener noreferrer"
+            <a href="https://instagram.com/toji_avirav" target="_blank" rel="noopener noreferrer"
               className="flex items-center gap-1.5 text-gray-500 hover:text-pink-400 text-xs transition-colors group">
               <span className="p-1.5 rounded-lg bg-white/5 group-hover:bg-pink-500/10 transition-colors">
                 <InstagramIcon />
