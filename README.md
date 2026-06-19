@@ -5,7 +5,7 @@
 
 TGav is a web application that takes any public Telegram message link and converts it into a stunning, customizable image that you can instantly download and share on social media. 
 
-## ✨ Features
+##  Features
 
 - **Single Post Mode:** Paste any public Telegram post link to instantly generate a beautiful preview card.
 - **Thread Mode:** Combine up to 3 related Telegram posts into a cohesive "Thread Card" that reads like a story.
